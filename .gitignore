@@ -2,6 +2,8 @@
 ## Eclipse
 #################
 
+TimeAndValues/
+html/
 *.pydevproject
 .project
 .metadata
